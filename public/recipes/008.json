@@ -1,0 +1,33 @@
+{
+	"id": 8,
+	"title": "Classic French Omelet",
+	"imageURL": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/ck/13/01/classic-french-omelet-ck-x.jpg?itok=TZwlFvE5",
+	"remoteURL": "http://www.myrecipes.com/recipe/classic-french-omelet",
+		"servings": {"yield":2,"size":"1 omelet"},
+	"nutrition": [
+		{"id": "calories","amount":160},
+		{"id": "carbohydrates","amount":0.8},
+		{"id": "fat","amount": 11.4},
+		{"id": "protein","amount": 12.6},
+		{"id": "saturatedfat","amount": 4.3},
+		{"id": "sodium","amount": 279},
+		{"id": "fiber","amount": 0},
+		{"id": "cholesterol","amount": 377},
+		{"id": "calcium","amount": 57},
+		{"id": "iron","amount": 1.8}
+	],
+
+	"ingredients": [
+		"1/8 teaspoon kosher salt, divided",
+		"1/8 teaspoon freshly ground black pepper, divided",
+		"4 large eggs, divided",
+		"1 teaspoon butter, divided"
+	],
+	"preparation": [
+		"Combine dash of salt, dash of pepper, and two eggs in a small bowl. Stir with a whisk until just blended (do not overbeat).",
+		"Heat an 8-inch nonstick skillet over medium heat. Melt 1/2 teaspoon butter in pan; swirl to coat.",
+		"Add egg mixture to pan; cook 60 seconds or until eggs are the consistency of very soft scrambled eggs (center will still look wet), stirring constantly with a rubber spatula. Tilt pan while stirring to fill any holes with uncooked egg mixture. Run spatula around edges and under omelet to loosen it from pan. Push one end of omelet up onto front lip of pan. Roll other end of omelet toward lip to close omelet.",
+		"Turn out onto a plate, seam side down. Repeat with remaining salt, pepper, eggs, and butter."
+	],
+	"note:":"A large egg contains about 185 mg of cholesterol. And since the American Heart Association (AHA) recommends a limit of 300 mg per day, eat two eggs and you've exceeded that limit. But, your body makes cholesterol. Lots of it, in fact. Every single day you produce between 1 and 2 grams of it on your own. (That's 5-10 times the cholesterol in a large egg.) When you eat more cholesterol from foods like eggs, your body produces less of it. And when you eat less cholesterol from foods like eggs, your body produces more. cholesterol isn't so bad for you anyway. It is a vital nutrient. http://www.huffingtonpost.com/john-berardi-phd/egss-and-health_b_3499583.html"
+}

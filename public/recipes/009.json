@@ -1,0 +1,33 @@
+{
+    "id": 9,
+    "title": "PB & B Pancakes",
+	"imageURL":"http://images.media-allrecipes.com/userphotos/600x600/969627.jpg",
+	"remoteURL":"",
+    	"servings": {"yield":5,"size":"2 pancakes"},
+	"nutrition": [
+        {"id": "calories","amount":301},
+		{"id": "carbohydrates","amount":29.2},
+		{"id": "fat","amount":16.6},
+		{"id": "protein","amount":10.9},
+		{"id": "saturatedfat","amount":3.4},
+		{"id": "sodium","amount":488},
+		{"id": "fiber","amount":3.1},
+        {"id": "cholesterol","amount":46},
+		{"id": "calcium","amount":94},
+		{"id": "iron","amount":1}
+    ],
+
+	"ingredients":[
+		"5.4 ounces gluten-free baking and pancake mix (about 1 1/4 cups)",
+		"1 cup warm water",
+		"1/2 cup creamy peanut butter",
+		"1/8 teaspoon salt",
+		"1 large egg",
+		"1/2 cup chopped banana (about 1 small)"
+	],
+	"preparation":[
+		"Weigh or lightly spoon baking mix into dry measuring cups; level with a knife. Combine baking mix and next 4 ingredients in a medium bowl, stirring well with a whisk. Fold in banana.",
+		"Heat a large nonstick skillet or griddle over medium heat. Pour 1/4 cup batter per pancake onto hot pan. Cook 2 to 3 minutes or until tops are covered with bubbles and edges look cooked. Carefully turn pancakes over; cook 2 to 3 minutes or until bottoms are lightly browned. Repeat procedure with remaining batter."
+	],
+	"note:":"You can give these pancakes a PB&J flavor profile by spreading them with grape or strawberry jelly. Or just drizzle them with syrup. (not included in nutrition information."
+}

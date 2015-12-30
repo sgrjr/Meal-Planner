@@ -1,0 +1,29 @@
+{
+	"id": 37,
+	"title": "Turkey-Spinach Wraps
+",
+	"imageURL": "http://images.edge-generalmills.com/f8d50a92-88bb-4cc1-87b0-24fbc0b482ff.jpg",
+	"remoteURL": "http://www.bettycrocker.com/recipes/turkey-spinach-wraps/6b616b40-33b0-4a37-aa98-8b3af696bc48",
+	"servings": {
+		"yield":4,
+		"size":"1 wrap"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+	],
+	"ingredients": [
+		""
+	],
+	"preparation": [
+		""
+	],
+	"note": ""
+}

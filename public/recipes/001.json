@@ -1,0 +1,31 @@
+{
+	"id": 1,
+	"title": "BLT Turkey Wrap",
+	"imageURL": "http://400caloriesorless.com/wp-content/uploads/2010/09/BLT-wrap.jpg",
+	"remoteURL": "http://www.epicurious.com/recipes/food/views/best-ever-blt-wrap-355089",
+	"servings": {"yield":2,"size":"1 wrap"},
+	"nutrition": [
+		{"id":"calories","amount":564},
+		{"id":"carbohydrates","amount":27},
+		{"id":"fat","amount":30},
+		{"id":"protein","amount":15},
+		{"id":"saturatedfat","amount":6},
+		{"id":"sodium","amount":1027},
+		{"id":"fiber","amount":2},
+		{"id":"cholesterol","amount":63}
+	],
+	"ingredients": [
+		"2 tablespoons (30 ml) low-fat mayonnaise",
+		"2 whole-wheat wraps, 9 inches (23 cm) in diameter",
+		"2 leaves romaine lettuce",
+		"4 thin slices tomato",
+		"6 slices cooked turkey bacon"
+	],
+	"preparation": [
+		"Spread 1 tablespoon (15 ml) of mayonnaise onto each wrap.",
+		"Top each with 1 lettuce leaf, 2 slices of tomato, and 3 slices of bacon.",
+		"Fold in the ends of each wrap and roll up tightly.",
+		"Wrap in parchment or wax paper and cut on the diagonal. Place in a sandwich bag or sandwich container."
+	],
+	"note": ""
+}

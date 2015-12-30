@@ -1,0 +1,50 @@
+{
+    "id": "19",
+    "title": "Spaghetti and Turkey Meatball",
+	"imageURL":"http://assets.eatingwell.com/sites/default/files/recipes/MN2610.JPG",
+	"remoteURL":"http://mobile.eatingwell.com/recipes/old_fashioned_spaghetti_meatballs.html",
+
+"servings": {"yield":6,"size":""},
+	"nutrition": [
+		{"id":"calories","amount":597},
+		{"id":"carbohydrates","amount":46.475},
+		{"id":"fat","amount":11.175},
+		{"id":"protein","amount":29},
+		{"id":"saturatedfat","amount":3},
+		{"id":"sodium","amount":1679},
+		{"id":"fiber","amount":14.35},
+		{"id":"cholesterol","amount":37.17},
+		{"id":"potassium","amount":985.75},
+		{"id":"vitaminc","amount":46.475},
+		{"id":"iron","amount":12%},
+		{"id":"calcium","amount":7%},
+		{"id":"vitamina","amount":27%}		
+	],
+
+	"ingredients":[
+		"MEATBALLS:",
+		"1/3 cup bulgur",
+		"1/2 cup hot water",
+		"8 ounces ground turkey",
+		"1 medium onion, very finely chopped",
+		"2 large egg whites, lightly beaten",
+		"3 cloves garlic, very finely chopped",
+		"1 teaspoon dried oregano",
+		"1/2 teaspoon salt",
+		"1/2 teaspoon freshly ground pepper",
+		"1 cup fresh breadcrumbs, preferably whole-wheat (see Note)",
+		"SAUCE & SPAGHETTI:",
+		"4 cups prepared marinara sauce",
+		"1/2 cup slivered fresh basil leaves, or chopped fresh parsley",
+		"1 pound whole-wheat spaghetti, or linguine",
+		"1/2 cup freshly grated Parmesan (1 ounce)"
+	],
+	"preparation":[
+		"To prepare meatballs: Combine bulgur and water in a small bowl. Let stand until the bulgur is tender and the liquid is absorbed, about 30 minutes.",
+		"Preheat oven to 350°F. Coat a rack with cooking spray and place it over a baking sheet lined with foil.",
+		"Combine ground beef, sausage, onion, egg whites, garlic, oregano, salt, pepper, breadcrumbs and the soaked bulgur in a large bowl; mix well. Form the mixture into 1-inch meatballs (about 24). Place the meatballs on the rack and bake for 25 minutes. Blot well with paper towel.",
+		"To prepare sauce & spaghetti: Put a large pot of lightly salted water on to boil. Bring sauce to a simmer in a Dutch oven. Add the meatballs to the sauce and simmer, covered, for 20 minutes. Stir in basil (or parsley).",
+		"Meanwhile, cook spaghetti (or linguine) until just tender, 8 to 10 minutes. Drain and transfer to a serving bowl. Top with the sauce and meatballs and serve with grated cheese."
+	],
+	"note":"To make fresh breadcrumbs: Trim crusts from firm sandwich bread. Tear the bread into pieces and process in a food processor until coarse crumbs form. One slice makes about 1/3 cup."
+}

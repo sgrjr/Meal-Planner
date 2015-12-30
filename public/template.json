@@ -1,0 +1,28 @@
+{
+	"id": 0,
+	"title": "",
+	"imageURL": "",
+	"remoteURL": "",
+	"servings": {
+		"yield":,
+		"size":""
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+	],
+	"ingredients": [
+		""
+	],
+	"preparation": [
+		""
+	],
+	"note": ""
+}

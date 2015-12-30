@@ -1,0 +1,38 @@
+{
+	"id": 7,
+	"title": "Banh Mi Hot Dog Recipe (Vietnamese)",
+	"imageURL": "http://bed56888308e93972c04-0dfc23b7b97881dee012a129d9518bae.r34.cf1.rackcdn.com/sites/default/files/imagecache/standard/recipes/22290E.jpg",
+	"remoteURL": "http://www.eatingwell.com/recipes/banh_mi_hot_dog.html",
+		"servings": {"yield":1,"size":"1 hotdog"},
+	"nutrition": [
+		{"id": "calories","amount":201},
+		{"id": "carbohydrates","amount":25},
+		{"id": "fat","amount": 9},
+		{"id": "protein","amount": 10},
+		{"id": "saturatedfat","amount": 2},
+		{"id": "sodium","amount": 599},
+		{"id": "fiber","amount": 4},
+		{"id": "cholesterol","amount": 20},
+		{"id": "sugar","amount": 3},
+		{"id": "potassium","amount": 176},
+		{"id": "vitamina","amount": 47}
+	],
+
+	"ingredients": [
+		"2 teaspoons low-fat mayonnaise",
+		"1 whole-wheat hot dog bun, toasted if desired",
+		"1 grilled hot dog (see Tip)",
+		"2 tablespoons shredded carrot",
+		"1 tablespoon fresh cilantro leaves",
+		"1 tablespoon halved and thinly sliced cucumber",
+		"Lime wedge"
+	],
+	"preparation": [
+		"Grill hotdog",
+		"Spread mayonnaise on bun and add hot dog.",
+		"Top with carrot, cilantro and cucumber.",
+		"Finish with a squeeze of lime."
+
+	],
+	"note": "Not all hot dogs are created equal. Reaching for the right brand in the grocery store can have a huge impact on your intake of fat and sodium. For a healthier hot dog, choose one that’s no more than 150 calories, has 3 grams or less of saturated fat and 370 mg or less of sodium. <br> Nature's Place Chicken Sausage is a great alternative: cal: 70, fat: 2, satfat: 0, carbs: 1, protein: 11 (Substitute this sometime in nutrition info and ingredients)"
+}

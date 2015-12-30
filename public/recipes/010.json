@@ -1,0 +1,40 @@
+{
+	"id": 10,
+	"title": "Black Pepper and Molasses Pulled Chicken Sandwiches",
+	"imageURL": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/ck/09/11/chicken-sandwiches-ck-1932638-x.jpg?itok=zozY2IxA",
+	"remoteURL": "http://www.myrecipes.com/recipe/black-pepper-molasses-pulled-chicken-sandwiches",
+	"servings": {"yield":4,"size":"1 sandwich"},
+	"nutrition": [
+		{"id": "calories","amount":294},
+		{"id": "carbohydrates","amount":35.6},
+		{"id": "fat","amount": 6.5},
+		{"id": "protein","amount": 22},
+		{"id": "sodium","amount": 698},
+		{"id": "fiber","amount": 1.8},
+		{"id": "cholesterol","amount": 71},
+		{"id": "calcium","amount": 105},
+		{"id": "iron","amount": 3.1}
+	],
+
+	"ingredients": [
+		"3 tablespoons ketchup",
+		"1 tablespoon cider vinegar",
+		"1 tablespoon prepared mustard",
+		"1 tablespoon molasses",
+		"3/4 teaspoon chili powder",
+		"1/2 teaspoon ground cumin",
+		"1/4 teaspoon freshly ground black pepper",
+		"1/8 teaspoon ground ginger",
+		"12 ounces skinless, boneless chicken thighs, cut into 2-inch pieces",
+		"4 (2-ounce) sandwich rolls, cut in half horizontally",
+		"12 dill pickle chips"
+	],
+	"preparation": [
+		"Combine first 9 ingredients in a medium saucepan; bring to a boil.",
+		"Reduce heat to medium-low; cover and cook, stirring occasionally, 23 minutes or until chicken is done and tender.",
+		"Remove from heat; shred with 2 forks to measure 2 cups meat.",
+		"Place 1/2 cup chicken on bottom half of each roll.",
+		"Top each with 3 pickles and top half of roll."
+	],
+	"note": ""
+}

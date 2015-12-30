@@ -1,0 +1,30 @@
+{
+	"id": 32,
+	"title": "Healthier Grilled Cheese Sandwich",
+	"imageURL": "http://lifecdn.dailyburn.com/life/wp-content/uploads/2014/04/Healthy-Grilled-Cheese_PS_2.jpg",
+	"remoteURL": "http://dailyburn.com/life/recipes/grilled-cheese-sandwich-recipe/",
+	"servings": {"yield":1,"size":"1 sandwich"},
+	"nutrition": [	
+		{"id": "calories","amount":340},
+		{"id": "carbohydrates","amount":32},
+		{"id": "fat","amount": 15},
+		{"id": "protein","amount": 19.3},
+		{"id": "saturatedfat","amount": 9},
+		{"id": "sodium","amount": 427},
+		{"id": "fiber","amount": 6.7}
+	],
+	"ingredients": [
+		"Cooking oil spray",
+		"2 slices sprouted whole-grain bread",
+		"2 slices (1.5 ounces) low-fat cheddar cheese",
+		"1/2 tomato, sliced",
+		"1/2 cup baby spinach"
+	],
+	"preparation": [
+		"Layer cheese, tomato and spinach between the bread slices.",
+		"Heat a large, heavy skillet over medium-low heat. Lightly spray the bottom with cooking oil.",
+		"Add sandwich and cook until browned on the bottom, about 4-5 minutes. Flip the sandwich over, cover the skillet and continue to cook until the other side is browned and cheese has melted, about 4-5 minutes more.",
+		"Cut sandwiches in half and serve hot."
+	],
+	"note": ""
+}

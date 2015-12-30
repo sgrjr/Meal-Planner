@@ -1,0 +1,37 @@
+{
+	"id": 5,
+	"title": "One pot Ground Beef, Corn and Rice",
+	"imageURL": "http://img.sndimg.com/food/image/upload/w_614,h_461,c_fit/v1/img/recipes/15/09/93/pic44QHhD.jpg",
+	"remoteURL": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=96480",
+		"servings": {"yield":4,"size":"2 cups"},
+	"nutrition": [
+		{"id": "calories","amount":409},
+		{"id": "carbohydrates","amount":23.9},
+		{"id": "fat","amount": 24.5},
+		{"id": "protein","amount": 23},
+		{"id": "saturatedfat","amount": 9.6},
+		{"id": "sodium","amount": 780.4},
+		{"id": "fiber","amount": 2.6},
+		{"id": "cholesterol","amount": 85.1},
+		{"id": "sugar","amount": 0.2},
+		{"id":"potassium","amount": 490.3}
+	],
+
+	"ingredients": [
+		"1 lb lean ground beef",
+		"1 cup rice (cooked)",
+		"1 can of corn",
+		"1/2 cup chopped onion",
+		"1 green pepper, chopped",
+		"1 tsp each chili powder",
+		"1 tsp garlic powder",
+		"1 tsp salt",
+		"1 tsp crushed black pepper (optional)"
+	],
+	"preparation": [
+		"Brown ground beef in pan",
+		"Add spices and onions (cook 2-3 minutes)",
+		"Add rice and corn, cook another 5 minutes or until rice is browned."
+	],
+	"note": ""
+}

@@ -1,0 +1,51 @@
+{
+	"id": 36,
+	"title": "1 Banana",
+	"imageURL": "http://dreamatico.com/data_images/banana/banana-5.jpg",
+	"remoteURL": "https://www.fatsecret.com/calories-nutrition/usda/bananas",
+	"servings": {
+		"yield":1,
+		"size":"1 banana"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+		Nutrition Facts
+Serving Size 1 medium (7" to 7-7/8" long)
+ 
+Amount Per Serving
+Calories from Fat 4Calories 105
+ 
+% Daily Values*
+Total Fat 0.39g	1%
+ 	Saturated Fat 0.132g	1%
+ 	Polyunsaturated Fat 0.086g	 
+ 	Monounsaturated Fat 0.038g	 
+Cholesterol 0mg	0%
+Sodium 1mg	0%
+Potassium 422mg	 
+Total Carbohydrate 26.95g	9%
+ 	Dietary Fiber 3.1g	12%
+ 	Sugars 14.43g	 
+Protein 1.29g	 
+ 
+Vitamin A 2%		Vitamin C 17%
+Calcium 1%		Iron 2%
+
+	],
+	"ingredients": [
+		"1 Medium (7 inch to 7 1/2 inch) Banana"
+	],
+	"preparation": [
+		"Peel first before eating :)"
+	],
+	"note": ""
+}
