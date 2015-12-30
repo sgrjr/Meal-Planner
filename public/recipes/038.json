@@ -1,0 +1,30 @@
+{
+	"id": 38,
+	"title": "Brown Long Grain Rice",
+	"imageURL": "http://grainplacefoods.com/wp-content/uploads/2014/05/Rice-LongGrainBrown-LR.jpg",
+	"remoteURL": "http://www.realsimple.com/food-recipes/browse-all-recipes/perfect-long-grain-brown-rice",
+	"servings": {
+		"yield":2,
+		"size":"1 cup (195 g)"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":216},
+		{"id":"carbohydrates","amount":45},
+		{"id":"fat","amount":1.8},
+		{"id":"protein","amount":5},
+		{"id":"saturatedfat","amount":0.4},
+		{"id":"sodium","amount":10},
+		{"id":"fiber","amount":3.5},
+		{"id":"potassium","amount":84},
+		{"id":"sugar","amount":0.7},
+		{"id":"cholesterol","amount":0}
+	],
+	"ingredients": [
+		"2 cups Brown Long Grain Rice"
+	],
+	"preparation": [
+		"Follow instructions on box for 2 cups of Rice."
+	],
+	"note": ""
+}

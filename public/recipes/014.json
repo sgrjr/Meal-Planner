@@ -1,0 +1,41 @@
+{
+	"id": 14,
+	"title": "Chicken Burger",
+	"imageURL": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/ck/11/01-02/chicken-burgers-ck-x.jpg?itok=UbFFKGAv",
+	"remoteURL": "http://www.myrecipes.com/recipe/chicken-burgers-0",
+	"servings": {
+		"yield":4,
+		"size":"1 burger"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":335},
+		{"id":"carbohydrates","amount":34.9},
+		{"id":"fat","amount":9.2},
+		{"id":"protein","amount":29.2},
+		{"id":"saturatedfat","amount":1.1},
+		{"id":"sodium","amount":2.8},
+		{"id":"fiber","amount":3.8},
+		{"id":"cholesterol","amount":63},
+		{"id":"iron","amount":2.8},
+		{"id":"calcium","amount":69}
+	],
+	"ingredients": [
+		"1 tablespoon capers, drained",
+		"2 shallots, trimmed and peeled",
+		"1 pound skinless, boneless chicken breast halves",
+		"1/4 teaspoon salt",
+		"1/4 teaspoon black pepper",
+		"Cooking spray",
+		"4 whole-wheat hamburger buns",
+		"1/4 cup canola mayonnaise",
+		"4 green leaf lettuce leaves",
+		"8 plum tomato slices",
+		"2 tablespoons Dijon mustard"
+	],
+	"preparation": [
+		"Combine first 5 ingredients in a food processor; process until finely ground. Divide chicken mixture into 4 equal portions; shape each into a 1/2-inch-thick patty. Heat a large grill pan over medium-high heat. Coat pan with cooking spray. Add patties to pan; cook 3-5 minutes on each side.",
+		"Place bottom half of each bun on a plate, and spread 1 tablespoon mayonnaise over each. Top each burger with 1 lettuce leaf, 1 patty, and 2 tomato slices. Spread 1 1/2 teaspoons mustard over each bun top, then top burgers."
+	],
+	"note": ""
+}

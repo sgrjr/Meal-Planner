@@ -1,0 +1,52 @@
+{
+	"id": 15,
+	"title": "Chicken-and-Veggie Stir-fry",
+	"imageURL": "http://www.skinnykitchen.com/wp-content/uploads/2014/09/stir-fry.jpg",
+	"remoteURL": "http://www.myrecipes.com/recipe/chicken-veggie-stir-fry",
+	"servings": {
+		"yield":4,
+		"size":"2 cups"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":264},
+		{"id":"carbohydrates","amount":34},
+		{"id":"fat","amount":6},
+		{"id":"protein","amount":24},
+		{"id":"saturatedfat","amount":1},
+		{"id":"sodium","amount":792},
+		{"id":"fiber","amount":7},
+		{"id":"cholesterol","amount":41},
+		{"id":"sugar","amount":12}
+	],
+	"ingredients": [
+		"Ingredients for Stir Fry:",
+		"2 cup broccoli florets, cut in half, see shopping tip",
+		"2 cups onion, diced",
+		"1 cup carrots, diced",
+		"5 cups cabbage, shredded",
+		"2 cups Chinese pea pods (snow peas) sliced in half",
+		"1-3/4 cups cooked chicken breast, diced",
+		"Cooking spray",
+		"1 tablespoon vegetable, canola or olive oil",
+		"3 tablespoons water for stir frying",
+		"Ingredients for Sauce:",
+		"1/4 cup plus reduced-sodium soy sauce",
+		"2 tablespoons brown sugar",
+		"2 tablespoons rice vinegar",
+		"3 tablespoons water",
+		"2 cloves garlic, mined",
+		"2 teaspoons ginger (from a jar), see shopping tip",
+		"Fresh ground black pepper, to taste"
+	],
+	"preparation": [
+		"First prep all vegetables and dice the chicken. Set aside.",
+
+		"In a small bowl, add all sauce ingredients and mix until well blended. Set aside.",
+
+		"Coat a large nonstick wok or pan with cooking spray. Heat 1 tablespoon of oil in pan. Add broccoli, onions and carrots and water.  Saute over medium-high heat for 3-5 minutes until broccoli is soft.  Add cabbage and chicken.  Saute another 2 minutes until soft. Turn down to medium heat, stir in pea pods and sauce mixture.  Stir fry for about 2 minutes until all heated through. Stir constantly to blend everything.",
+
+		"Store any leftovers in the fridge for a few days."
+	],
+	"note": "You’ll be so satisfied with this dish just the way it is but it can be served over brown rice, if desired."
+}

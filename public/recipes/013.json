@@ -1,0 +1,35 @@
+{
+	"id": 13,
+	"title": "California Dreamin' Turkey Burger",
+	"imageURL": "http://d5dnlg5k9nac9.cloudfront.net/processed/thumbs/f96a810476b871a1e5716de37d58937d22074b11_r380_255.png",
+	"remoteURL": "http://www.jennieo.com/recipes/985-California-Dreamin-Turkey-Burger",
+	"servings": {
+		"yield":4,
+		"size":"1 burger"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":380},
+		{"id":"carbohydrates","amount":20},
+		{"id":"fat","amount":19},
+		{"id":"protein","amount":30},
+		{"id":"saturatedfat","amount":6},
+		{"id":"sodium","amount":590},
+		{"id":"fiber","amount":4},
+		{"id":"sugar","amount":3},
+		{"id":"cholesterol","amount":105}
+	],
+	"ingredients": [
+		"1 (16-ounce) package JENNIE-O® Lean Turkey Burger Patties",
+		"4 slices pepper Jack cheese",
+		"4 whole grain hamburger bun, split",
+		"4 tablespoons guacamole",
+		"4 slices JENNIE-O® Turkey Bacon, cooked according to package directions"
+	],
+	"preparation": [
+		"Cook turkey burgers according to package directions. Always cook until well done, 165°F as measured by meat thermometer. Place cheese on turkey burger during the last 5 minutes of heating to melt cheese.",
+
+		"On bottom half of bun, spread guacamole. Place turkey burger with melted cheese on guacamole and top with turkey bacon. Add bun top."
+	],
+	"note": "Always cook to an internal temperature of 165 degrees F."
+}
