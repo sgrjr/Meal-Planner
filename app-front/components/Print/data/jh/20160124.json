@@ -1,0 +1,15 @@
+{
+	"initials":"JH",
+	"dateRange": "1-24-16 to 1-30-16",
+	"dates": ["1/24","1/25","1/26","1/27","1/28","1/29","1/30"],
+	"meals":[
+		{"title":"Breakfast", "meals":[4,8,6,8,10,8,17]},
+		{"title":"Lunch", "meals":[3,16,8,16,6,16,10]},
+		{"title":"Dinner", "meals":[33,14,25,20,6,59,16]}
+		],
+	"snacks":[23,19,7,22,10],
+	"shopping":[ 
+		
+		],
+	"example_shopping":[{"qty": 1, "item":0}]
+}

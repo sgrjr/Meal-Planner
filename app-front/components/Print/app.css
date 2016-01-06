@@ -1,0 +1,49 @@
+			table {width:100%;}
+			h1, h2 {text-align:center; font-size:.98em;}
+			
+			#wfsbox, #weightbox {
+				border:solid;
+			}
+			
+			#weightbox input {
+				border: none;
+				border-bottom:1px solid;
+			}
+			th,th span {text-align:center;}
+			
+			th span { 
+				display:block; 
+				clear:both; 
+				border-top:dotted 1px;
+			}
+			th {background-color:gray;}
+			th, td {border:solid 1px; text-align:center; }
+			
+			.toTop {vertical-align:top;}
+			
+			.snack-spacer {margin:10px;}
+			.snack-spacer:before {content:'';}
+			td hr {border: none;}
+			
+			td .progress {
+				width:100%;
+				border-top: solid 1px;
+				background-color:#c3c3c3;
+				margin-bottom:5px;
+				}
+
+			.progress span {
+				margin-right:10px; 
+				
+				}
+			
+			
+			.fixedSize {height:150px;}
+			
+			.showAllDB hr{
+				display:none;
+			}
+			
+			@media print {
+				.top-of-page {page-break-before: always;}
+			 }

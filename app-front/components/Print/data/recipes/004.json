@@ -1,0 +1,39 @@
+{
+	"id": 4,
+	"title": "Spinach and Egg Breakfast Wrap with Avocado and Pepper Jack Cheese",
+	"imageURL": "http://img2.timeinc.net/health/img/recipes/recipes/hl/spinach-egg-breakfast-wrap-x.jpg",
+	"remoteURL": "http://www.health.com/health/recipe/0,,00420000004306,00.html",
+	"servings": {"yield":4,"size":"1 wrap"},
+	"nutrition": [	
+		{"id": "calories","amount":366},
+		{"id": "carbohydrates","amount": 30},
+		{"id": "fat","amount": 22},
+		{"id": "protein","amount": 22},
+		{"id": "saturatedfat","amount": 8},
+		{"id": "sodium","amount": 666},
+		{"id": "fiber","amount": 7},
+		{"id": "cholesterol","amount": 242},
+		{"id": "sugar","amount": 1}
+	],
+
+	"ingredients": [
+		"Nonstick cooking spray",
+		"1 (5-ounce) box or bag baby spinach, chopped",
+		"4 eggs ",
+		"4 egg whites",
+		"1/2 teaspoon salt ",
+		"1/4 teaspoon pepper",
+		"4 ounces shredded pepper jack cheese",
+		"1 avocado, sliced",
+		"4 whole-wheat tortillas",
+		"Hot sauce"
+	],
+	"preparation": [
+		"Spray a nonstick skillet over medium-high heat.",
+		"Add spinach and cook, stirring, until wilted, 2 minutes.",
+		"Whisk together eggs and egg whites in a small bowl. Add eggs to skillet and cook, stirring, until cooked through, 3–4 minutes. Season with salt and pepper.",
+		"Place 1/4 of egg mixture in the center of each tortilla, and sprinkle with 1 ounce cheese.",
+		"Top with 4 slices avocado and fold, burrito-style.  Slice in half and serve."
+	],
+	"note": ""
+}

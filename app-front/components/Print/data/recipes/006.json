@@ -1,0 +1,38 @@
+{
+	"id": 6,
+	"title": "Chicken Breast With Shaved Brussels Sprouts",
+	"imageURL": "http://img2.timeinc.net/health/img/recipes/_Chicken-Breast-Shaved-brussels-sprouts-XL.jpg",
+	"remoteURL": "http://www.health.com/health/recipe/0,,50400000120339,00.html",
+	"servings": {"yield":4,"size":"1 1/2 cups slaw and 4 ounces chicken"},
+	"nutrition": [
+		{"id": "calories","amount":309},
+		{"id": "carbohydrates","amount":10},
+		{"id": "fat","amount": 17},
+		{"id": "protein","amount": 31},
+		{"id": "saturatedfat","amount": 3.2},
+		{"id": "sodium","amount": 409},
+		{"id": "fiber","amount": 4},
+		{"id": "cholesterol","amount": 80},
+		{"id": "calcium","amount": 141},
+		{"id": "iron","amount": 2}
+	],
+
+	"ingredients": [
+		"2 (8-ounce) boneless, skinless chicken breast halves",
+		"3/4 teaspoon kosher salt, divided",
+		"2 broccoli stems",
+		"2 tablespoons olive oil",
+		"2 tablespoons fresh lemon juice",
+		"1/4 teaspoon freshly ground black pepper",
+		"3 cups thinly sliced Brussels sprouts (from 12 medium)",
+		"2 celery stalks, thinly sliced",
+		"1/4 cup toasted hazelnuts",
+		"1/4 cup fresh flat-leaf parsley, coarsely chopped",
+		"1 ounce Parmesan cheese, coarsely grated"
+	],
+	"preparation": [
+		"Place chicken and 1/2 teaspoon salt in a small saucepan and cover with water; bring to a boil. Immediately remove from heat, cover, and let stand 15 minutes. Drain chicken and run under cold water. Cool completely; set aside. Using 2 forks, shred into bite-size pieces; reserve.",
+		"Meanwhile, use a vegetable peeler to remove outer layer of broccoli stems; discard. Continue peeling stems into long strips. In a large bowl, whisk together oil, lemon juice, and 1/4 teaspoon each salt and pepper. Add broccoli strips, Brussels sprouts, celery, hazelnuts, parsley, and reserved chicken to bowl with dressing; toss. Divide among 4 shallow bowls. Top with cheese."
+	],
+	"note": ""
+}

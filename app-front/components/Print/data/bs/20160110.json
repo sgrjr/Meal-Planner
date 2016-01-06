@@ -1,0 +1,15 @@
+{
+	"initials":"BS",
+	"dateRange": "1-10-16 to 1-16-16",
+	"dates": ["1/10","1/11","1/12","1/13","1/14","1/15","1/16"],
+	"meals":[
+		{"title":"Breakfast", "meals":[2,8,15,8,9,8,17]},
+		{"title":"Lunch", "meals":[5,9,12,9,14,9,10]},
+		{"title":"Dinner", "meals":[9,3,12,19,37,28,11]}
+		],
+	"snacks":[16,8,17,5,10],
+	"shopping":[ 
+		
+		],
+	"example_shopping":[{"qty": 1, "item":0}]
+}

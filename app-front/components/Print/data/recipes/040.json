@@ -1,0 +1,56 @@
+{
+	"id": 40,
+	"title": "Mini Pretzels",
+	"imageURL": "",
+	"remoteURL": "",
+	"servings": {
+		"yield":,
+		"size":""
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+break in half: 
+
+
+Nutrition Facts
+Serving Size 23 pretzels (30g)
+ 
+Amount Per Serving
+Calories from Fat 10Calories 120
+ 
+% Daily Values*
+Total Fat 1g	2%
+ 	Saturated Fat 0g	0%
+ 	Polyunsaturated Fat 0g	 
+ 	Monounsaturated Fat 0g	 
+ 	Trans Fat 0g	 
+Cholesterol 0mg	0%
+Sodium 320mg	13%
+Potassium 35mg	 
+Total Carbohydrate 25g	8%
+ 	Dietary Fiber 1g	4%
+ 	Sugars 0g	 
+Protein 3g	 
+ 
+Vitamin A 0%		Vitamin C 0%
+Calcium 0%		Iron 8%
+
+
+	],
+	"ingredients": [
+		"12 Mini Pretzels"
+	],
+	"preparation": [
+		""
+	],
+	"note": ""
+}

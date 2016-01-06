@@ -1,0 +1,51 @@
+{
+	"id": 41,
+	"title": "90 Calorie Chewy Granola Bar - Chocolate Chunk",
+	"imageURL": "http://ecx.images-amazon.com/images/I/A15ol93jPYL._SY355SX312_SY355_CR,0,0,312,355_PIbundle-6,TopRight,0,0_SX312_SY355_CR,0,0,312,355_SH20_.jpg",
+	"remoteURL": "https://www.fatsecret.com/calories-nutrition/great-value/90-calorie-chewy-granola-bar---chocolate-chunk",
+	"servings": {
+		"yield":1,
+		"size":"1 bar"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+		Nutrition Facts
+Serving Size 1 bar (24ml)
+ 
+Amount Per Serving
+Calories from Fat 20Calories 90
+ 
+% Daily Values*
+Total Fat 2g	3%
+ 	Saturated Fat 0.5g	2%
+ 	Polyunsaturated Fat 0.5g	 
+ 	Monounsaturated Fat 1g	 
+ 	Trans Fat 0g	 
+Cholesterol 0mg	0%
+Sodium 65mg	3%
+Potassium 50mg	 
+Total Carbohydrate 18g	6%
+ 	Dietary Fiber 1g	4%
+ 	Sugars 7g	 
+Protein 1g	 
+ 
+Vitamin A 0%		Vitamin C 0%
+Calcium 8%		Iron 4%
+
+
+	],
+	"ingredients": [
+		"1 Great Value Chewy Granola Bar - Chocolate Chunk"
+	],
+	"preparation": [],
+	"note": ""
+}

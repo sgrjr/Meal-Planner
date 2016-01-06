@@ -1,0 +1,61 @@
+{
+	"id": 44,
+	"title": "Yogurt and Frozen Berries",
+	"imageURL": "",
+	"remoteURL": "http://ndb.nal.usda.gov/ndb/foods/show/105",
+	"servings": {
+		"yield":1,
+		"size":"6 ounce container"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":104},
+		{"id":"carbohydrates","amount":7.92},
+		{"id":"fat","amount":5.52},
+		{"id":"protein","amount":5.9},
+		{"id":"saturatedfat","amount":3.56},
+		{"id":"sodium","amount":78},
+		{"id":"fiber","amount":0},
+		{"id":"cholesterol","amount":22}	s
+		
+		for mixed berris add in::
+		
+		Nutrition Facts
+Serving Size 1 cup (140 g)
+Per Serving % Daily Value*
+Calories 80
+
+Calories from Fat 4
+
+Total Fat 0.5g 1%
+
+Saturated Fat 0g 0%
+
+Polyunsaturated Fat 0g
+
+Monounsaturated Fat 0g
+
+Cholesterol 0mg 0%
+
+Sodium 0mg 0%
+
+Potassium 180mg 5%
+
+Carbohydrates 17g 6%
+
+Dietary Fiber 5g 20%
+
+Sugars 10g
+
+Protein 1g
+
+	],
+	"ingredients": [
+		"1 cup berries (such as blueberries, raspberries, or blackberries)
+		1 cup plain yogurt"
+	],
+	"preparation": [
+		"Divide the berries and yogurt between two bowls and sprinkle with the almonds (if using). Serve with the eggs."
+	],
+	"note": ""
+}

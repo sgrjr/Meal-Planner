@@ -1,0 +1,54 @@
+{
+	"id": 25,
+	"title": "Western Omelet",
+	"imageURL": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/ck/13/01/western-omelet-ck-x.jpg?itok=iLQ7-N_P",
+	"remoteURL": "http://www.myrecipes.com/recipe/western-omelet",
+	"servings": {
+		"yield":2,
+		"size":"1 omelet"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+		Calories 331
+Fat 20.9 g
+Satfat 6.5 g
+Monofat 10.7 g
+Polyfat 2.6 g
+Protein 22 g
+Carbohydrate 10.7 g
+Fiber 1.7 g
+Cholesterol 390 mg
+Iron 2.5 mg
+Sodium 608 mg
+Calcium 179 mg
+		
+	],
+	"ingredients": [
+		"1 tablespoon water
+1/8 teaspoon salt
+1/8 teaspoon freshly ground black pepper
+4 large eggs
+1 tablespoon olive oil, divided
+1/2 cup (1-inch) slices onion
+1/3 cup (1-inch) slices red bell pepper
+1/3 cup (1-inch) slices green bell pepper
+1/4 teaspoon chopped fresh thyme
+2 ounces chopped 33%-less-sodium ham
+1 ounce shredded Swiss cheese (about 1/4 cup), divided"
+	],
+	"preparation": [
+		"1. Combine first 4 ingredients in a medium bowl, stirring with a whisk.
+2. Heat an 8-inch nonstick skillet over medium-high heat. Add 1 teaspoon oil to pan; swirl to coat. Stir in onion, bell peppers, thyme, and ham; sauté 4 minutes or until vegetables are crisp-tender. Remove vegetable mixture from pan; set aside. Clean pan.
+3. Return pan to medium-high heat. Add 1 teaspoon oil to pan; swirl to coat. Add half of egg mixture to pan, tilting pan to spread evenly; cook 1 minute or until edges begin to set. Lift edge of omelet with a rubber spatula, tilting pan to roll uncooked egg mixture onto bottom of pan. Repeat procedure on opposite edge of omelet. Cook 1 minute or until center is just set. Sprinkle 2 tablespoons cheese evenly over omelet. Sprinkle half of vegetable mixture over cheese. Run spatula around edges and under omelet to loosen it from pan; fold in half. Slide omelet onto a plate. Repeat procedure with remaining oil, egg mixture, cheese, and vegetable mixture."
+	],
+	"note": ""
+}

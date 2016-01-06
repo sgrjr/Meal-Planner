@@ -1,0 +1,45 @@
+{
+    "id": 3,
+    "title": "Soft Tacos With Spicy Chicken",
+	"imageURL":"http://img2.timeinc.net/health/img/recipes/recipes/hl/sft-tacos-spicy-chkn-hl-1168095-x.jpg",
+	"remoteURL":"http://www.health.com/health/recipe/0,,10000001168095,00.html",
+	"servings": {"yield":6,"size":"2 Tortillas"},
+	"nutrition": [	
+		{"id": "calories","amount": 225},
+		{"id": "carbohydrates","amount": 30},
+		{"id": "fat","amount": 7},
+		{"id": "protein","amount": 11},
+		{"id": "saturatedfat","amount": 1},
+		{"id": "sodium","amount": 528},
+		{"id": "fiber","amount": 5},
+        {"id": "cholesterol","amount": 18},
+		{"id": "calcium","amount": 66},
+		{"id": "iron","amount": 1}
+    ],
+
+	"ingredients":[
+		"3 chicken breast halves, skinned ",
+		"1/4 teaspoon salt ",
+		"1/8 teaspoon freshly ground black pepper",
+		"1 bay leaf",
+		"1/2 teaspoon chopped fresh oregano",
+		"2 canned chipotle chiles in adobo sauce, seeded and finely chopped",
+		"1 finely chopped red onion",
+		"1/4 cup white wine vinegar",
+		"2 tablespoons olive oil",
+		"1 cup dark beer, preferably Mexican",
+		"12 soft corn tortillas",
+		"1/4 cup chopped fresh cilantro",
+		"1 1/2 cups salsa"
+	],
+	"preparation":[
+
+	"Preheat oven to 300°.",
+	"Season the chicken breasts with salt and pepper. In a small bowl, combine the bay leaf, oregano, chipotle chiles (or another mildly hot fresh chile, seeded and finely chopped), onion, and vinegar. Allow to marinate for at least an hour or overnight.",
+	"Heat olive oil in a large heavy skillet over medium-high heat. Sauté chicken for about 10 minutes, or until brown. Turn the chicken and cook for another 20 minutes or until tender and cooked through.",
+	"Splash in 3/4 cup beer, a little at a time. As the chicken cooks, add more beer as needed to keep chicken from drying out. Test for doneness by making an incision with a knife; no pinkness means the chicken is done. (Or test with a meat thermometer; internal temperature should be 170°.) Remove chicken from skillet and allow to cool slightly.",
+	"When the chicken is nearly done, wrap 6 tortillas at a time in aluminum foil. Place on a baking sheet and bake in a 300° oven for about 5 minutes or until warm. Repeat with remaining tortillas. Line a basket with a napkin, and place warmed tortillas in basket.",
+	"Deglaze the pan with remaining 1/4 cup of beer. Cook for 2 minutes. Pull the chicken off the bone into bite-size strips. Toss with the pan juices and scatter the chopped cilantro over the top."
+	],
+	"note": ""
+}

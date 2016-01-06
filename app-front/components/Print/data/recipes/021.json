@@ -1,0 +1,34 @@
+{
+	"id": 21,
+	"title": "Ham & Cheese Quiche",
+	"imageURL": "http://hostedmedia.reimanpub.com/TOH/Images/Photos/37/300x300/exps20249_THD143241A01_22_4b.jpg",
+	"remoteURL": "http://www.tasteofhome.com/recipes/ham--n--cheese-quiche",
+	"servings": {"yield":12,"size":"1 slice (6 slices per pie)"},
+	
+	"nutrition": [
+		{"id":"calories","amount":349},
+		{"id":"carbohydrates","amount":20},
+		{"id":"fat","amount":23},
+		{"id":"protein","amount":13},
+		{"id":"saturatedfat","amount":12},
+		{"id":"sodium","amount":596},
+		{"id":"fiber","amount":0.2},
+		{"id":"cholesterol","amount":132}
+	],
+	"ingredients": [
+		"1 package (14.1 ounces) refrigerated pie pastry",
+		"2 cups diced fully cooked ham",
+		"2 cups (8 ounces) shredded sharp cheddar cheese",
+		"2 teaspoons dried minced onion",
+		"4 eggs",
+		"2 cups half-and-half cream",
+		"1/2 teaspoon salt",
+		"1/4 teaspoon pepper"
+	],
+	"preparation": [
+		"Preheat oven to 400°. Unroll pastry sheets into two 9-in. pie plates; flute edges. Line unpricked pastry shells with a double thickness of heavy-duty foil. Fill with pie weights, dried beans or uncooked rice. Bake 10-12 minutes or until light golden brown. Remove foil and weights; bake 3-5 minutes longer or until bottom is golden brown. Cool on wire racks.",
+		"Divide ham, cheese and onion between shells. In a large bowl, whisk eggs, cream, salt and pepper until blended. Pour into shells. Cover edges loosely with foil. Bake 35-40 minutes or until a knife inserted near the center comes out clean. Let stand 5-10 minutes before cutting.", 
+		"Freeze option: Cover and freeze unbaked quiche. To use, remove from freezer 30 minutes before baking (do not thaw). Preheat oven to 350°. Place quiche on a baking sheet; cover edge loosely with foil. Bake as directed, increasing time as necessary for a knife inserted near the center to come out clean. Yield: 2 quiches (6 servings each)."
+	],
+	"note": "Let pie weights cool before storing. Beans and rice may be reused for pie weights, but not for cooking."
+}

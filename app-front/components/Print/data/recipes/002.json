@@ -1,0 +1,40 @@
+{
+	"id": 2,
+	"title": "Grilled Pork Fajita",
+	"imageURL": "http://www.recipe.com/images/slow-cooker-barbecued-pulled-pork-fajitas-13500010rca-ss.jpg",
+	"remoteURL": "http://www.mayoclinic.org/healthy-lifestyle/recipes/grilled-pork-fajitas/rcp-20049668",
+	"servings": {"yield":8,"size":"1 fajita"},
+	"nutrition": [	
+		{"id":"calories","amount": 250},
+		{"id":"carbohydrates","amount": 29},
+		{"id":"fat","amount": 6},
+		{"id":"protein","amount": 20},
+		{"id":"saturatedfat","amount": 2},
+		{"id":"sodium","amount": 535},
+		{"id":"fiber","amount": 10},
+		{"id":"cholesterol","amount": 45},
+		{"id":"sugar","amount": 5}
+	],
+
+	"ingredients": [
+		"1 tablespoon chili powder",
+		"1/2 teaspoon oregano",
+		"1/2 teaspoon paprika",
+		"1/4 teaspoon ground coriander",
+		"1/4 teaspoon garlic powder",
+		"1 pound pork tenderloin, cut into strips 1/2 inch wide and 2 inches long",
+		"1 small onion, sliced",
+		"8 whole-wheat flour tortillas, about 8 inches in diameter, warmed in the microwave",
+		"1/2 cup shredded sharp cheddar cheese",
+		"4 medium tomatoes, diced",
+		"4 cups shredded lettuce",
+		"1 cup salsa"
+	],
+	"preparation": [
+		"Prepare a hot fire in a charcoal grill or heat a gas grill or broiler to medium-high or 400 F.",
+		"In a small bowl, stir together the chili powder, oregano, paprika, coriander and garlic powder. Dredge the pork pieces in the seasonings, coating completely.",
+		"Place the pork strips and onions in a cast-iron pan or grill basket. Grill or broil at medium-high heat, turning several times, until browned on all sides, about 5 minutes.",
+		"To serve, spread an equal amount of pork strips and onions on each tortilla. Top each with 1 tablespoon cheese, about 2 tablespoons tomatoes, 1/2 cup shredded lettuce and 2 tablespoons salsa. Fold in both sides of each tortilla up over the filling, then roll to close. Serve immediately."
+	],
+	"note": ""
+}
