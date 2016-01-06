@@ -34,7 +34,8 @@ var jsFiles = {
   ],
   source: [
     'resources/assets/js/Utility.js',
-    'resources/assets/js/components/App.jsx'
+    'resources/assets/js/components/App.jsx',
+	'resources/assets/js/components/Printable.js'
   ]
 };
 
