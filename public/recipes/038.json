@@ -1,30 +1,54 @@
-{
+38{
 	"id": 38,
-	"title": "Brown Long Grain Rice",
-	"imageURL": "http://grainplacefoods.com/wp-content/uploads/2014/05/Rice-LongGrainBrown-LR.jpg",
-	"remoteURL": "http://www.realsimple.com/food-recipes/browse-all-recipes/perfect-long-grain-brown-rice",
+	"title": "Easy Ham & Cheese Wrap",
+	"imageURL": "http://assets.kraftfoods.com/recipe_images/opendeploy/Easy-Ham-Cheese-Wrap-3015_640x428.jpg",
+	"remoteURL": "http://www.kraftrecipes.com/recipes/easy-ham-cheese-wrap-105198.aspx",
 	"servings": {
-		"yield":2,
-		"size":"1 cup (195 g)"
+		"yield":1,
+		"size":"1 wrap"
 		},
 	
 	"nutrition": [
-		{"id":"calories","amount":216},
-		{"id":"carbohydrates","amount":45},
-		{"id":"fat","amount":1.8},
-		{"id":"protein","amount":5},
-		{"id":"saturatedfat","amount":0.4},
-		{"id":"sodium","amount":10},
-		{"id":"fiber","amount":3.5},
-		{"id":"potassium","amount":84},
-		{"id":"sugar","amount":0.7},
-		{"id":"cholesterol","amount":0}
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+		Nutritional Information
+Serving Size 1 serving
+AMOUNT PER SERVING
+Calories	350
+Total fat	20g
+Saturated fat	6g
+Cholesterol	40mg
+Sodium	1230mg
+Carbohydrate	28g
+Dietary fiber	2g
+Sugars	2g
+Protein	14g
+% Daily Value
+Vitamin A	20 %DV
+Vitamin C	15 %DV
+Calcium	35 %DV
+Iron	10 %DV
+
+
+
 	],
 	"ingredients": [
-		"2 cups Brown Long Grain Rice"
+		"1 flour tortilla (8 inch)
+1 Tbsp. KRAFT Real Mayo Mayonnaise
+1 lettuce leaf
+1 KRAFT Singles 
+3 slices OSCAR MAYER Smoked Shaved Ham"
 	],
 	"preparation": [
-		"Follow instructions on box for 2 cups of Rice."
+		"Spread tortilla with mayo.
+Top with lettuce, Singles and ham; roll up."
 	],
 	"note": ""
 }

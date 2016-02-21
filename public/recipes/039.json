@@ -1,0 +1,52 @@
+{
+	"id": 39,
+	"title": "Baby Carrots in the Raw",
+	"imageURL": "http://www.centuryfarms.net/images/baby-carrots.jpg",
+	"remoteURL": "https://www.fatsecret.com/calories-nutrition/usda/baby-carrots",
+	"servings": {
+		"yield":1,
+		"size":"5 baby carrots"
+		},
+	
+	"nutrition": [
+		{"id":"calories","amount":},
+		{"id":"carbohydrates","amount":},
+		{"id":"fat","amount":},
+		{"id":"protein","amount":},
+		{"id":"saturatedfat","amount":},
+		{"id":"sodium","amount":},
+		{"id":"fiber","amount":},
+		{"id":"cholesterol","amount":}
+		
+		x's 5:
+		
+		Nutrition Facts
+Serving Size 1 medium
+ 
+Amount Per Serving
+Calories from Fat 0Calories 4
+ 
+% Daily Values*
+Total Fat 0.01g	0%
+ 	Saturated Fat 0.002g	0%
+ 	Polyunsaturated Fat 0.006g	 
+ 	Monounsaturated Fat 0.001g	 
+Cholesterol 0mg	0%
+Sodium 8mg	0%
+Potassium 24mg	 
+Total Carbohydrate 0.82g	0%
+ 	Dietary Fiber 0.2g	1%
+ 	Sugars 0.48g	 
+Protein 0.06g	 
+ 
+Vitamin A 28%		Vitamin C 1%
+Calcium 0%		Iron 0%
+	],
+	"ingredients": [
+		"5 raw baby carrots"
+	],
+	"preparation": [
+		"rinse before eating"
+	],
+	"note": ""
+}
